@@ -1,0 +1,49 @@
+body,html{
+    margin:0
+    padding:0
+}
+header{
+    width:100%
+    heigth:70px
+    background-color: #282828;
+    }
+    hi{
+        position:absolute;
+        padding:3px;
+        float:left;
+        margin-left:2%
+        margin:top 10px;
+        font-family:'Alfaslab one',cursive;
+        color:#39ca74;
+            }
+span{
+    color:#ffffff;
+}
+ul{
+    width:auto;
+    float:rigth;
+    margin:top 8px;
+    }
+    li{
+                   displaya;inline-block;
+                   padding:15px 30px;
+                   a{
+                       text-align:centre ;
+                       color:#ffffff;
+                       text-decoration:none;
+                       font-family-align:center;
+                       color:#fffff;
+                       text-decoration:none;
+                       font-family:'open sans ',sans-serif;
+                       font-size:1.2vw;
+                                          }
+a:hover {
+    color:#F0c330;
+    transition;0.5s;
+}
+img{
+    width:100%;
+    margin-top:-16px;
+}
+
+    }

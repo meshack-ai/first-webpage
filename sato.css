@@ -1,0 +1,30 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+  min-height: 8vh;
+  background-color: rgb(69, 42, 165);
+}
+.logo {
+  color: crimson;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-size: 22px;
+}
+.nav-links {
+  display: flex;
+  background-color: red;
+  width: 30%;
+}
+.nav-links a {
+  color: saddlebrown;
+  text-decoration: skyblue;
+  letter-spacing: 3px;
+  font-weight: bold;
+  font-size: 14px;
+}
