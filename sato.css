@@ -9,6 +9,7 @@ nav {
   align-content: center;
   min-height: 8vh;
   background-color: rgb(69, 42, 165);
+  padding:0 ;
 }
 .logo {
   color: crimson;
